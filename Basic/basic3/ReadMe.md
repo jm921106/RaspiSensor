@@ -1,0 +1,24 @@
+# String , 상수 , 변수 관련 Sample File
+
+- print ""
+- input
+- upper()
+- lower()
+- split("_")
+- str(object) - object to string
+- len(object) - length
+- chr(number) - 0<=x<=255
+- ord(string) - code > number
+- bytes(object) - object to byte
+- float(object) - object to number
+- int(object)
+- hex(object)
+- bin(object)
+- float.hex()
+- float.fromhex()
+- bin(object)
+- boolean(object)
+- complex(object)
+- abs(object)
+- isdigit
+- math
